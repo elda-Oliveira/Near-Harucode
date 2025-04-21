@@ -19,14 +19,14 @@
 
  ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
  <div>
-  <a href="https://github.com/elda-oliveira">
-     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elda-oliveira&show_icons=true&count_private=true&hide_border=true&title_color=6bfa62&icon_color=fc78c4&text_color=c9d1d9&bg_color=0d1117" alt="Elda Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elda-oliveira&layout=compact&hide_border=true&title_color=6bfa62&text_color=fc78c4&bg_color=0d1117" />
+  <a href="https://github.com/Near-Harucode">
+     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Near-Harucode&show_icons=true&count_private=true&hide_border=true&title_color=6bfa62&icon_color=fc78c4&text_color=c9d1d9&bg_color=0d1117" alt="Elda Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Near-Harucode&layout=compact&hide_border=true&title_color=6bfa62&text_color=fc78c4&bg_color=0d1117" />
 </div>
     
  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elda-oliveira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Near-Harucode&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
     
 <div align="center">  
@@ -58,7 +58,7 @@
 </div>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{elda-oliveira}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Near-Harucode}/count.svg" /></p> 
 <br></div>
 
 
